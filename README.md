@@ -62,13 +62,7 @@ You can run the optimizer directly from the terminal. (Note: Running the command
 Bash
 python Optimizer.py
 🤖 Acknowledgments
-This application was built entirely from scratch to provide a powerful, modern, and sleek system optimization tool. Its development and pristine object-oriented architecture were heavily assisted by cutting-edge AI technologies, including:
-
-Gemma Models
-
-Ollama
-
-LM Studio
+This application was built entirely from scratch to provide a powerful, modern, and sleek system optimization tool. 
 
 📝 License
 This project is licensed under the MIT License.
