@@ -48,10 +48,9 @@ Designed and developed solely by **Janith Rathnayake**.
 - **OS:** Windows 10 or Windows 11 (Required for Registry and System tweaks)
 - **Python:** Version 3.8 or higher
 
-### 1. Clone the Repository
+
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/JDR-System-Optimizer.git](https://github.com/YOUR_GITHUB_USERNAME/JDR-System-Optimizer.git)
-cd JDR-System-Optimizer
+
 2. Install Dependencies
 This project requires a few external Python libraries. Install them using pip:
 
