@@ -700,9 +700,9 @@ class JanithOptimizer(QMainWindow):
         praise_label = QLabel(
             "<b>Designed & Developed solely by Janith Rathnayake</b><br><br>"
             "This application was built entirely from scratch By me to provide a powerful, modern, "
-            "and sleek system optimization tool. Its development was heavily debugged by cutting-edge "
+            "and sleek system optimization tool. the development was assisted by cutting-edge "
             "AI technologies, including <b>Gemma 4 e4B models</b>, <b>Ollama Qwen3.5 9B</b>, and AI models such as <b>Nemotron 3 nano 4B</b>, "
-            "which helped architect its pristine object-oriented structure and user interface."
+            "which helped code debugging in hard times and provided insights on optimization techniques. However, the core design, architecture, and implementation were crafted by me, ensuring a unique and personalized user experience."
         )
         praise_label.setWordWrap(True)
         praise_label.setStyleSheet("color: #ECECF1; font-size: 15px; line-height: 1.5;")
